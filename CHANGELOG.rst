@@ -1,4 +1,27 @@
 
+0.8.3
+-----
+
+Pull Requests
+
+- (@ralphbean)      #75, rST syntax typofix.
+  https://github.com/fedora-infra/fmn.rules/pull/75
+- (@mkrizek)        #77, Update taskotron rules to reflect recent changes
+  https://github.com/fedora-infra/fmn.rules/pull/77
+- (@sayanchowdhury) #85, Add rules for Autocloud
+  https://github.com/fedora-infra/fmn.rules/pull/85
+
+Commits
+
+- 89f6778e6 rST syntax typofix.
+  https://github.com/fedora-infra/fmn.rules/commit/89f6778e6
+- 8f5e6d0a8 Update taskotron rules to reflect recent changes
+  https://github.com/fedora-infra/fmn.rules/commit/8f5e6d0a8
+- bc7f19152 taskotron rules: make docstring more clear
+  https://github.com/fedora-infra/fmn.rules/commit/bc7f19152
+- 6191e4910 Add rules for Autocloud
+  https://github.com/fedora-infra/fmn.rules/commit/6191e4910
+
 0.8.2
 -----
 
